@@ -23,3 +23,7 @@ Al usar React como otra **librería**, con el comando de `npx create-react-app m
 - Errores con la dependencias
 - Multiples versiones de Node
 -Configuración erronea de la bash
+
+---
+# Arreglos
+Documentación de los [Arreglos](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
