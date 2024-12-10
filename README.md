@@ -27,3 +27,7 @@ Al usar React como otra **librería**, con el comando de `npx create-react-app m
 ---
 # Arreglos
 Documentación de los [Arreglos](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+---
+# Asignación Desestructurante
+Documentación de los [Destructuración](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
