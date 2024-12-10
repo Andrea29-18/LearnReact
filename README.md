@@ -13,3 +13,13 @@ const divRoot = document.querySelector('#root');
 ReactDom.render(<h1>Hola Mundo</h1>, divRoot);
 ```
 React uriliza algo llamado `JSX = JS + XML` que es el conjunto de JavaScript más XML 
+
+---
+# Introducción a JS
+Al usar React como otra **librería**, con el comando de `npx create-react-app my-app
+` te permite centrarte en el código, no en las herramientas de compilación.
+
+## Posibles errores
+- Errores con la dependencias
+- Multiples versiones de Node
+-Configuración erronea de la bash
