@@ -31,3 +31,7 @@ Documentación de los [Arreglos](https://developer.mozilla.org/es/docs/Web/JavaS
 ---
 # Asignación Desestructurante
 Documentación de los [Destructuración](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
+---
+# Import, Export y funciones comunes de arreglos
+Documetación para realizar los ejercicios es [Arrays Find](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
