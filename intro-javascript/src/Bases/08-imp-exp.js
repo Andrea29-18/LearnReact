@@ -1,13 +1,13 @@
 import  heroes, {owners} from '../Data/heroes';
 
 //Leer README.md para entender el ejercicio Array.find
-const getHeroById = (id) => heroes.find(hero => hero.id === id);
+export const getHeroById = (id) => heroes.find(hero => hero.id === id);
 
 console.log(getHeroById(2));
 
 
 //El find solo devuelve el primer elemento que cumple la condición
-const getHeroByOwner = (owner) => heroes.filter((hero) => hero.owner === owner);
+export const getHeroByOwner = (owner) => heroes.filter((hero) => hero.owner === owner);
 
 console.log(getHeroByOwner('DC'));
 

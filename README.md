@@ -35,3 +35,7 @@ Documentación de los [Destructuración](https://developer.mozilla.org/es/docs/W
 ---
 # Import, Export y funciones comunes de arreglos
 Documetación para realizar los ejercicios es [Arrays Find](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+
+---
+# Promesas
+Documetación de las [Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise)
