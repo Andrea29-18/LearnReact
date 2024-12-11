@@ -13,3 +13,6 @@ const divRoot = document.querySelector('#root');
 ReactDom.render(<h1>Hola Mundo</h1>, divRoot);
 ```
 React uriliza algo llamado `JSX = JS + XML` que es el conjunto de JavaScript más XML 
+
+---
+# ¿Que es un componente?
