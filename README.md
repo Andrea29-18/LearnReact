@@ -39,3 +39,9 @@ Documetación para realizar los ejercicios es [Arrays Find](https://developer.mo
 ---
 # Promesas
 Documetación de las [Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+---
+# Fetch API
+Documentación del [Fetch API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
+
+La API que se usara es (GIPHY)[https://developers.giphy.com/]
