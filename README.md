@@ -24,7 +24,7 @@ Es una pequeña pieza de código encapsulada re-utilizable que puede tener estad
 Los compoenentes tiene un **estado** es aquel cambio inicial que tiene el componente, con la interacción del usuario
 
 ---
-# Explicación de los archivos de counter-appr
+# Explicación de los archivos de 03-counter-app-cra
 - Si tiene un archivo .json significa que se instalo de por los comando de `npm`
 - Los archivos del .gitignore son archivos que no queremos que se suban a producción 
 - El modulo de _node-modules_ son todas las dependencias de desarrollo para manejar el proyecto
@@ -33,3 +33,11 @@ Los compoenentes tiene un **estado** es aquel cambio inicial que tiene el compon
 
 - En el archivo de src/App.css son todos los estilos globales que puede tener la aplicación de React y esta en capsulado, en cambio el index.css es más generico
 - El archivo src/index.js es el archivo principal de la aplicación de React
+
+---
+# Explicación del archivo de 03-counter-app-vite
+Algunos archivod a pesar que tiene n el mismo nombre el codigo cambia, eso es de ir analizando archivos por archivo los recomendados paa ver la diferencia son
+- Package.json
+- Diferencias entre .js y .jsx
+- index.html
+- Nombrado de archivos diferencies y menos carpetas uno que el otro
