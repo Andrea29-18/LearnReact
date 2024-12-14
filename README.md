@@ -16,3 +16,9 @@ React uriliza algo llamado `JSX = JS + XML` que es el conjunto de JavaScript má
 
 ---
 # ¿Que es un componente?
+Es una pequeña pieza de código encapsulada re-utilizable que puede tener estado o no. 
+- En los Componentes es de buena practica utilizar Uppercamelcase
+- Se pueden minimizar los componente como sea necesario
+    - App -> Router -> Screen/Página -> Menú -> MenuItem
+
+Los compoenentes tiene un **estado** es aquel cambio inicial que tiene el componente, con la interacción del usuario
