@@ -1,13 +1,6 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-
-function App() {
-    return (
-        <div>
-        <h1>Hola Mundo</h1>
-        </div>
-    );
-}
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { App } from './HelloWorldApp';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
