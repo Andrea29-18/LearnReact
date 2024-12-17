@@ -12,3 +12,8 @@ export const Props = ( { title } ) => {
 Props.propTypes = {
     title: Proptypes.string.isRequired
 };
+
+// Sino viene anda del padre, se le asigna un valor por defecto
+Props.defaultProps = {
+    title: 'Titulo por defecto'
+}

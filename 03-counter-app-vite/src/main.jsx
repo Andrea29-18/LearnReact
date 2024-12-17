@@ -10,6 +10,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         {/* <App /> */}
         {/* <Tarea01 /> */}
         {/* Este es un componente padre */}
-        <Props title="Hola!"/>
+        <Props />
     </React.StrictMode>
 );
