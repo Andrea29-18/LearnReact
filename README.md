@@ -50,3 +50,7 @@ Para descagrar este componten ya que Vite es crudo (No tiene instalación extras
 ---
 # Eventos
 La [documentación](https://es.legacy.reactjs.org/docs/events.html) de lso eventos soportados por react, igual se puede usar JS para hacer algun evento
+
+---
+# Hook
+El [Hook](https://es.legacy.reactjs.org/docs/hooks-intro.html) 
