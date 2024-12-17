@@ -41,3 +41,8 @@ Algunos archivod a pesar que tiene n el mismo nombre el codigo cambia, eso es de
 - Diferencias entre .js y .jsx
 - index.html
 - Nombrado de archivos diferencies y menos carpetas uno que el otro
+
+---
+# Prop-types
+Para descagrar este componten ya que Vite es crudo (No tiene instalación extras, solo lo necesario) es:
+`yarn add prop-types`
