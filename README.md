@@ -46,3 +46,7 @@ Algunos archivod a pesar que tiene n el mismo nombre el codigo cambia, eso es de
 # Prop-types
 Para descagrar este componten ya que Vite es crudo (No tiene instalación extras, solo lo necesario) es:
 `yarn add prop-types`
+
+---
+# Eventos
+La [documentación](https://es.legacy.reactjs.org/docs/events.html) de lso eventos soportados por react, igual se puede usar JS para hacer algun evento
